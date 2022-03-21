@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Artem Mingazov\source\repos\Snake\Snake\main.cpp(21,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem Mingazov\source\repos\Snake\Snake\main.cpp(21,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem Mingazov\source\repos\Snake\Snake\main.cpp(32,10): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Artem Mingazov\source\repos\Snake\Snake\main.cpp(68,26): warning C4244: =: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Artem Mingazov\source\repos\Snake\Snake\main.cpp(161,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Snake.vcxproj -> C:\Users\Artem Mingazov\source\repos\Snake\Debug\Snake.exe
